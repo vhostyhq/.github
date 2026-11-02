@@ -10,9 +10,9 @@
 </p>
 
 ```
-~/Sites/escrow   →  https://escrow.yourdomain.dev
-~/Sites/kudos    →  https://kudos.yourdomain.dev
-localhost:5173   →  https://5173.yourdomain.dev
+~/Sites/myspace    →  https://myspace.yourdomain.dev
+~/Sites/geocities  →  https://geocities.yourdomain.dev
+localhost:5173     →  https://5173.yourdomain.dev
 ```
 
 - **Real HTTPS.** A trusted Let's Encrypt wildcard certificate. No browser warnings, no local CA.

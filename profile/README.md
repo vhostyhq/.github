@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/vhostyhq/.profile/blob/main/vhosty-wordmark.svg" alt="vhosty" width="320">
+  <img src="https://github.com/vhostyhq/.profile/blob/main/profile/vhosty-wordmark.svg" alt="vhosty" width="320">
 </p>
 
 <h3 align="center">Herd for your tailnet.</h3>
